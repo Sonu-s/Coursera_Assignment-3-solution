@@ -1,1 +1,2 @@
-# Coursera_Assignment-3-solution
+# HTML-assignment-3
+# Coursera course:-HTML, CSS, and Javascript for Web Developers
